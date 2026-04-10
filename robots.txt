@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/carpet-care-solution-10e31/sitemap.xml
+Sitemap: https://carpet-care-solution-10e31.pages.dev/sitemap.xml
